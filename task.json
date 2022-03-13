@@ -1,0 +1,34 @@
+[
+  {
+    "daysToComplete": 2,
+    "taskCompleted": false,
+    "dueDate" : "10/04/2022",
+    "taskDetails": "Dummy Task 1",
+    "job" : null,
+    "messages": []
+  },
+  {
+    "daysToComplete": 1,
+    "taskCompleted": true,
+    "dueDate" : "04/01/2022",
+    "taskDetails": "Dummy Task 2",
+    "job" : null,
+    "messages": []
+  },
+  {
+    "daysToComplete": 3,
+    "taskCompleted": true,
+    "dueDate" : "04/01/2022",
+    "taskDetails": "Dummy Task 3",
+    "job" : null,
+    "messages": []
+  },
+  {
+    "daysToComplete": 1,
+    "taskCompleted": false,
+    "dueDate" : "04/01/2022",
+    "taskDetails": "Dummy Task 4",
+    "job" : null,
+    "messages": []
+  }
+]

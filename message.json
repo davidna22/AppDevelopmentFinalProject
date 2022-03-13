@@ -1,0 +1,26 @@
+[
+  {
+    "messageContents": "hello world",
+    "dateTime": "05/01/2022",
+    "job" : null,
+    "messageFrom" : null,
+    "messageTo" : null,
+    "task" : null
+  },
+  {
+    "messageContents": "random message 1",
+    "dateTime": "05/01/2022",
+    "job" : null,
+    "messageFrom" : null,
+    "messageTo" : null,
+    "task" : null
+  },
+  {
+    "messageContents": "random message 2",
+    "dateTime": "05/01/2022",
+    "job" : null,
+    "messageFrom" : null,
+    "messageTo" : null,
+    "task" : null
+  }
+]

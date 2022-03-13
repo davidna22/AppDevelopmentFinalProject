@@ -1,0 +1,26 @@
+[
+  {
+    "rating": 0,
+    "ratingDetails": "bad job",
+    "dateTime": "05/01/2022",
+    "userRatingFor" : null
+  },
+  {
+    "rating": 5,
+    "ratingDetails": "great job",
+    "dateTime": "05/04/2022",
+    "userRatingFor" : null
+  },
+  {
+    "rating": 3.5,
+    "ratingDetails": "average",
+    "dateTime": "05/03/2022",
+    "userRatingFor" : null
+  },
+  {
+    "rating": 1.5,
+    "ratingDetails": "ehh",
+    "dateTime": "05/02/2022",
+    "userRatingFor" : null
+  }
+]

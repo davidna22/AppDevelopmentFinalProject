@@ -1,0 +1,34 @@
+[
+  {
+    "completed": false,
+    "defaultImage": "star",
+    "jobDueDate": "05/01/2022",
+    "jobStartDate" : "03/10/2022",
+    "jobDetails": "Dummy Job 1",
+    "location": "Woodbridge, VA",
+    "name": "Job A",
+    "pay": 1500.5,
+    "planImage": "sample.png",
+    "size": 1000,
+    "contractorAssigned": [],
+    "messages": [],
+    "tasks": [],
+    "workersAssigned": []
+  },
+  {
+    "completed": true,
+    "defaultImage": "star",
+    "jobDueDate": "05/01/2022",
+    "jobStartDate" : "03/10/2022",
+    "jobDetails": "Dummy Job 2",
+    "location": "Woodbridge, VA",
+    "name": "Job A",
+    "pay": 1500.5,
+    "planImage": "sample.png",
+    "size": 1000,
+    "contractorAssigned": [],
+    "messages": [],
+    "tasks": [],
+    "workersAssigned": []
+  }
+]
