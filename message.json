@@ -2,7 +2,7 @@
   {
     "mID": "13193275-08B3-4D7B-B665-6395C209F408",
     "messageContents": "hello world",
-    "dateTime": "05/01/2022",
+    "dateTime": "05-01-2022",
     "job" : null,
     "messageFrom" : null,
     "messageTo" : null,
@@ -11,7 +11,7 @@
   {
     "mID": "D152321E-7CAB-463B-A35A-AAE02F90E1E1",
     "messageContents": "random message 1",
-    "dateTime": "05/01/2022",
+    "dateTime": "05-01-2022",
     "job" : null,
     "messageFrom" : null,
     "messageTo" : null,
@@ -20,7 +20,7 @@
   {
     "mID": "8C8D7B5D-6150-468C-843F-19E0FCC85A25",
     "messageContents": "random message 2",
-    "dateTime": "05/01/2022",
+    "dateTime": "05-01-2022",
     "job" : null,
     "messageFrom" : null,
     "messageTo" : null,
