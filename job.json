@@ -11,7 +11,7 @@
     "pay": 1500.5,
     "planImage": "sample.png",
     "size": 1000,
-    "contractorAssigned": [],
+    "contractorAssigned": null,
     "messages": [],
     "tasks": [],
     "workersAssigned": []
@@ -28,7 +28,7 @@
     "pay": 1500.5,
     "planImage": "sample.png",
     "size": 1000,
-    "contractorAssigned": [],
+    "contractorAssigned": null,
     "messages": [],
     "tasks": [],
     "workersAssigned": []
