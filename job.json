@@ -12,7 +12,7 @@
     "planImage": "sample.png",
     "size": 1000,
     "contractorAssigned": null,
-    "messages": [],
+    "allMessages": [],
     "tasks": [],
     "workersAssigned": []
   },
@@ -29,7 +29,7 @@
     "planImage": "sample.png",
     "size": 1000,
     "contractorAssigned": null,
-    "messages": [],
+    "allMessages": [],
     "tasks": [],
     "workersAssigned": []
   }
