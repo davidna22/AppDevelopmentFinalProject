@@ -1,5 +1,6 @@
 [
   {
+    "userID": "D1A8CC5B-18D8-4956-A034-171A674C278B",
     "age": 25,
     "username": "jsmith2",
     "password": "testing123",
@@ -20,6 +21,7 @@
     "ratings" : []
   },
   {
+    "userID": "EE92C21A-867F-4BC1-ABA9-6A3AD955E07A",
     "age": 25,
     "username": "jdoe2",
     "password": "testing123",
@@ -40,6 +42,7 @@
     "ratings" : []
   },
   {
+    "userID": "EA01E39F-B381-4A6D-A69B-5E1EDB322A17",
     "age": 50,
     "username": "picard2",
     "password": "enterprise",
@@ -60,6 +63,7 @@
     "ratings" : []
   },
   {
+    "userID": "73631E70-A5D4-4CA4-B2B1-7A9744724BCE",
     "age": 50,
     "username": "worf2",
     "password": "iamclingon",
