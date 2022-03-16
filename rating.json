@@ -1,27 +1,27 @@
 [
   {
-    "ratingID": "FFDBE863-0F4F-459D-82F8-4D40C5733964",
+    "id": "FFDBE863-0F4F-459D-82F8-4D40C5733964",
     "rating": 0,
     "ratingDetails": "bad job",
     "dateTime": "05-01-2022",
     "userRatingFor" : null
   },
   {
-    "ratingID": "4DD2CCEF-ED8B-4686-B6A2-DDDB305ABC3A",
+    "id": "4DD2CCEF-ED8B-4686-B6A2-DDDB305ABC3A",
     "rating": 5,
     "ratingDetails": "great job",
     "dateTime": "05-04-2022",
     "userRatingFor" : null
   },
   {
-    "ratingID": "D7C0643C-C7D1-4782-B013-DE3DB8940B80",
+    "id": "D7C0643C-C7D1-4782-B013-DE3DB8940B80",
     "rating": 3.5,
     "ratingDetails": "average",
     "dateTime": "05-03-2022",
     "userRatingFor" : null
   },
   {
-    "ratingID": "C198B8A5-D410-4504-9472-609E5FAA821F",
+    "id": "C198B8A5-D410-4504-9472-609E5FAA821F",
     "rating": 1.5,
     "ratingDetails": "ehh",
     "dateTime": "05-02-2022",
