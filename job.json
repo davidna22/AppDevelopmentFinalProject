@@ -1,6 +1,6 @@
 [
   {
-    "jobID" : "0C3DDC3D-5634-478C-AD8F-58C79FBD8EFB",
+    "jobId" : "0C3DDC3D-5634-478C-AD8F-58C79FBD8EFB",
     "completed" : false,
     "defaultImage" : "star",
     "jobDueDate" : "05-01-2022",
@@ -17,7 +17,7 @@
     "workersAssigned" : []
   },
   {
-    "jobID" : "796D603A-15DE-41FF-901A-AF8C21CFD028",
+    "jobId" : "796D603A-15DE-41FF-901A-AF8C21CFD028",
     "completed" : true,
     "defaultImage" : "star",
     "jobDueDate" : "05-01-2022",
