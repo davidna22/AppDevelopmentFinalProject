@@ -1,6 +1,6 @@
 [
   {
-    "taskID": "3FB2D17B-DC20-4096-BE24-4063F1AE16D4",
+    "id": "3FB2D17B-DC20-4096-BE24-4063F1AE16D4",
     "taskName": "Task 1",
     "daysToComplete": 2,
     "taskCompleted": false,
@@ -10,7 +10,7 @@
     "messages": []
   },
   {
-    "taskID": "D1A8CC5B-18D8-4956-A034-171A674C278B",
+    "id": "D1A8CC5B-18D8-4956-A034-171A674C278B",
     "taskName": "Task 2",
     "daysToComplete": 1,
     "taskCompleted": true,
@@ -20,7 +20,7 @@
     "messages": []
   },
   {
-    "taskID": "EE92C21A-867F-4BC1-ABA9-6A3AD955E07A",
+    "id": "EE92C21A-867F-4BC1-ABA9-6A3AD955E07A",
     "taskName": "Task 3",
     "daysToComplete": 3,
     "taskCompleted": true,
@@ -30,7 +30,7 @@
     "messages": []
   },
   {
-    "taskID": "EA01E39F-B381-4A6D-A69B-5E1EDB322A17",
+    "id": "EA01E39F-B381-4A6D-A69B-5E1EDB322A17",
     "taskName": "Task 4",
     "daysToComplete": 1,
     "taskCompleted": false,
