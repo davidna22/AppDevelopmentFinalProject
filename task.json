@@ -6,7 +6,23 @@
     "taskCompleted": false,
     "dueDate" : "10-04-2022",
     "taskDetails": "Dummy Task 1",
-    "job" : null,
+    "job" : {
+    "id" : "0C3DDC3D-5634-478C-AD8F-58C79FBD8EFB",
+    "completed" : false,
+    "defaultImage" : "star",
+    "jobDueDate" : "05-01-2022",
+    "jobStartDate" : "03-10-2022",
+    "jobDetails" : "Dummy Job 1",
+    "location" : "Woodbridge, VA",
+    "name" : "Job A",
+    "pay" : 1500.5,
+    "planImage" : "sample.png",
+    "size" : 1000,
+    "contractorAssigned" : null,
+    "allMessages" : [],
+    "tasks" : [],
+    "workersAssigned" : []
+  },
     "messages": []
   },
   {
@@ -16,7 +32,23 @@
     "taskCompleted": true,
     "dueDate" : "04-01-2022",
     "taskDetails": "Dummy Task 2",
-    "job" : null,
+    "job" : {
+    "id" : "0C3DDC3D-5634-478C-AD8F-58C79FBD8EFB",
+    "completed" : false,
+    "defaultImage" : "star",
+    "jobDueDate" : "05-01-2022",
+    "jobStartDate" : "03-10-2022",
+    "jobDetails" : "Dummy Job 1",
+    "location" : "Woodbridge, VA",
+    "name" : "Job A",
+    "pay" : 1500.5,
+    "planImage" : "sample.png",
+    "size" : 1000,
+    "contractorAssigned" : null,
+    "allMessages" : [],
+    "tasks" : [],
+    "workersAssigned" : []
+  },
     "messages": []
   },
   {
@@ -26,7 +58,23 @@
     "taskCompleted": true,
     "dueDate" : "04-01-2022",
     "taskDetails": "Dummy Task 3",
-    "job" : null,
+    "job" : {
+    "id" : "0C3DDC3D-5634-478C-AD8F-58C79FBD8EFB",
+    "completed" : false,
+    "defaultImage" : "star",
+    "jobDueDate" : "05-01-2022",
+    "jobStartDate" : "03-10-2022",
+    "jobDetails" : "Dummy Job 1",
+    "location" : "Woodbridge, VA",
+    "name" : "Job A",
+    "pay" : 1500.5,
+    "planImage" : "sample.png",
+    "size" : 1000,
+    "contractorAssigned" : null,
+    "allMessages" : [],
+    "tasks" : [],
+    "workersAssigned" : []
+  },
     "messages": []
   },
   {
@@ -36,7 +84,23 @@
     "taskCompleted": false,
     "dueDate" : "04-01-2022",
     "taskDetails": "Dummy Task 4",
-    "job" : null,
+    "job" : {
+    "id" : "0C3DDC3D-5634-478C-AD8F-58C79FBD8EFB",
+    "completed" : false,
+    "defaultImage" : "star",
+    "jobDueDate" : "05-01-2022",
+    "jobStartDate" : "03-10-2022",
+    "jobDetails" : "Dummy Job 1",
+    "location" : "Woodbridge, VA",
+    "name" : "Job A",
+    "pay" : 1500.5,
+    "planImage" : "sample.png",
+    "size" : 1000,
+    "contractorAssigned" : null,
+    "allMessages" : [],
+    "tasks" : [],
+    "workersAssigned" : []
+  },
     "messages": []
   }
 ]
